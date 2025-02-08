@@ -10,7 +10,7 @@ git commit -m "first commit"
 git branch -M main
 
 # Passo 4 
-git remote add origin <URL_DO_REPOSITORIO> .git
+git remote add origin <URL_DO_REPOSITORIO>.git
 
 # Passo 5
 git push -u origin main
